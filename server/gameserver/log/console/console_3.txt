@@ -1,0 +1,169 @@
+[16-03-2025 21:00:29]	INFO	---------------------------------------------------------------------=[ aCis ]
+[16-03-2025 21:00:29]	INFO	Loading gameserver configuration files.
+[16-03-2025 21:00:29]	INFO	Initializing ThreadPool.
+[16-03-2025 21:00:29]	INFO	----------------------------------------------------------------=[ IdFactory ]
+[16-03-2025 21:00:29]	INFO	Updated characters online status.
+[16-03-2025 21:00:29]	INFO	Cleaned 0 elements from database.
+[16-03-2025 21:00:29]	INFO	Cleaned 0 expired timestamps from database.
+[16-03-2025 21:00:29]	INFO	Initializing 102912 objectIds pool, with 43 used ids.
+[16-03-2025 21:00:29]	INFO	--------------------------------------------------------------------=[ World ]
+[16-03-2025 21:00:29]	INFO	World grid (176 by 256) is now set up.
+[16-03-2025 21:00:29]	INFO	Loaded regions.
+[16-03-2025 21:00:29]	INFO	Loaded 1 announcements.
+[16-03-2025 21:00:29]	INFO	Loaded 1 server variables.
+[16-03-2025 21:00:29]	INFO	--------------------------------------=[ Loading Custom configuration files. ]
+[16-03-2025 21:00:29]	INFO	-----------------------------------------------------------------=[ Balancer ]
+[16-03-2025 21:00:29]	INFO	ClassBalanceManager: Loaded 0 balanced classe(s).
+[16-03-2025 21:00:30]	INFO	SkillBalanceManager: Loaded 0 balanced skill(s).
+[16-03-2025 21:00:30]	INFO	-------------------------------------------------------------=[ Hwid Manager ]
+[16-03-2025 21:00:30]	INFO	--------------------------------------------------------------=[ Icon Tables ]
+[16-03-2025 21:00:30]	CONFIG	IconsTable: Succesfully loaded 9190 icons, in 28.0 Milliseconds.
+[16-03-2025 21:00:30]	INFO	----------------------------------------------------------=[ Enchant Scrolls ]
+[16-03-2025 21:00:30]	INFO	-EnchantTable: Loaded 36 enchants.
+[16-03-2025 21:00:30]	INFO	-----------------------------------------------------------=[ Dungeon Events ]
+[16-03-2025 21:00:30]	INFO	DungeonManager: Loaded 2 dungeon templates
+[16-03-2025 21:00:30]	INFO	--------------------------------------------------------=[ Tournament Events ]
+[16-03-2025 21:00:30]	INFO	Tournament: Next Event Mon Mar 17 00:30:00 GMT-03:00 2025
+[16-03-2025 21:00:30]	INFO	---------------------------------------------------------=[ VIP Drop Manager ]
+[16-03-2025 21:00:30]	INFO	-------------------------------------------------------------=[ Skin Manager ]
+[16-03-2025 21:00:30]	INFO	SkinTable: Loaded 18 skins.
+[16-03-2025 21:00:30]	INFO	-------------------------------------------------------------------=[ Events ]
+[16-03-2025 21:00:30]	INFO	Capture The Flag Engine: is Started.
+[16-03-2025 21:00:30]	INFO	Deathmatch Engine: is Started.
+[16-03-2025 21:00:30]	INFO	Team vs Team Engine: is Started.
+[16-03-2025 21:00:30]	INFO	-----------------------------------------------------------=[ Auto Pvp Zones ]
+[16-03-2025 21:00:33]	INFO	SkillTable: Loaded 29807 skills.
+[16-03-2025 21:00:35]	INFO	Loaded 27 zones classes and total 972 zones.
+[16-03-2025 21:00:35]	INFO	IPManager - Loaded.
+[16-03-2025 21:00:35]	INFO	-FakePcsTable: Loaded 2 NPC to PC templates.
+[16-03-2025 21:00:35]	CONFIG	-Loaded Custom Announce System. 
+[16-03-2025 21:00:35]	CONFIG	-Loaded Custom Anti Farm System.
+[16-03-2025 21:00:35]	CONFIG	-Vote Reward
+[16-03-2025 21:00:35]	INFO	------------------------------------------=[ Auto Restart System Is Disabled ]
+[16-03-2025 21:00:35]	INFO	-------------------------------------------------------------------=[ Skills ]
+[16-03-2025 21:00:35]	INFO	Loaded 117 fishing skills.
+[16-03-2025 21:00:35]	INFO	Loaded 64 clan skills.
+[16-03-2025 21:00:35]	INFO	Loaded 14550 enchant skills.
+[16-03-2025 21:00:35]	INFO	--------------------------------------------------------------------=[ Items ]
+[16-03-2025 21:00:35]	INFO	ItemTable: Highest used itemID : 30003
+[16-03-2025 21:00:35]	INFO	Loaded 14 summon items.
+[16-03-2025 21:00:35]	INFO	Loaded 180 hennas.
+[16-03-2025 21:00:35]	INFO	Loaded 675 buyLists.
+[16-03-2025 21:00:36]	INFO	Loaded 135 multisell.
+[16-03-2025 21:00:36]	INFO	Loaded 871 recipes.
+[16-03-2025 21:00:36]	INFO	Loaded 60 armor sets.
+[16-03-2025 21:00:36]	INFO	Loaded 270 fish.
+[16-03-2025 21:00:36]	INFO	Loaded 334 spellbooks.
+[16-03-2025 21:00:36]	INFO	Loaded 39 Soul Crystals data and 124 NPCs data.
+[16-03-2025 21:00:36]	INFO	Loaded 4 sets of augmentation stats.
+[16-03-2025 21:00:36]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
+[16-03-2025 21:00:36]	INFO	Loaded 2 cursed weapons.
+[16-03-2025 21:00:36]	INFO	-------------------------------------------------------------------=[ Admins ]
+[16-03-2025 21:00:36]	INFO	Loaded 10 access levels.
+[16-03-2025 21:00:36]	INFO	Loaded 284 admin command rights.
+[16-03-2025 21:00:36]	INFO	Loaded 0 bookmarks.
+[16-03-2025 21:00:36]	INFO	---------------------------------------------------------------=[ Characters ]
+[16-03-2025 21:00:36]	INFO	Loaded 89 player classes templates.
+[16-03-2025 21:00:36]	INFO	Loaded 1 player infos.
+[16-03-2025 21:00:36]	INFO	Loaded 14 newbie buffs.
+[16-03-2025 21:00:36]	INFO	Loaded 779 teleport locations.
+[16-03-2025 21:00:36]	INFO	Loaded 0 RaidPoints entries.
+[16-03-2025 21:00:36]	INFO	---------------------------------------------------------=[ Community server ]
+[16-03-2025 21:00:36]	INFO	Loaded 5 forums.
+[16-03-2025 21:00:36]	INFO	--------------------------------------------------------------------=[ Clans ]
+[16-03-2025 21:00:36]	INFO	Loaded 0 crests.
+[16-03-2025 21:00:36]	INFO	Loaded 0 clans.
+[16-03-2025 21:00:36]	INFO	----------------------------------------------------=[ Geodata & Pathfinding ]
+[16-03-2025 21:00:36]	INFO	Loaded 0 L2D region files.
+[16-03-2025 21:00:36]	INFO	Loaded 32 node buffers.
+[16-03-2025 21:00:36]	INFO	--------------------------------------------------------------------=[ Zones ]
+[16-03-2025 21:00:36]	INFO	-----------------------------------------------------=[ Castles & Clan Halls ]
+[16-03-2025 21:00:36]	INFO	Loaded 9 castles.
+[16-03-2025 21:00:36]	INFO	New date for Gludio siege: Sun Mar 23 20:00:00 GMT-03:00 2025.
+[16-03-2025 21:00:36]	INFO	New date for Dion siege: Sat Mar 22 20:00:00 GMT-03:00 2025.
+[16-03-2025 21:00:36]	INFO	New date for Giran siege: Sat Mar 22 20:00:00 GMT-03:00 2025.
+[16-03-2025 21:00:36]	INFO	New date for Oren siege: Sat Mar 22 20:00:00 GMT-03:00 2025.
+[16-03-2025 21:00:36]	INFO	New date for Aden siege: Sun Mar 23 20:00:00 GMT-03:00 2025.
+[16-03-2025 21:00:36]	INFO	New date for Innadril siege: Sat Mar 22 20:00:00 GMT-03:00 2025.
+[16-03-2025 21:00:36]	INFO	New date for Goddard siege: Sun Mar 23 20:00:00 GMT-03:00 2025.
+[16-03-2025 21:00:36]	INFO	New date for Rune siege: Sun Mar 23 20:00:00 GMT-03:00 2025.
+[16-03-2025 21:00:36]	INFO	New date for Schuttgart siege: Sun Mar 23 20:00:00 GMT-03:00 2025.
+[16-03-2025 21:00:36]	INFO	Loaded 44 clan halls.
+[16-03-2025 21:00:36]	INFO	------------------------------------------------------------=[ Task Managers ]
+[16-03-2025 21:00:37]	INFO	Restored 0 items on ground.
+[16-03-2025 21:00:37]	INFO	--------------------------------------------------------------=[ Auto Spawns ]
+[16-03-2025 21:00:37]	INFO	Loaded 124 auto spawns.
+[16-03-2025 21:00:37]	INFO	--------------------------------------------------------------=[ Seven Signs ]
+[16-03-2025 21:00:37]	INFO	Currently on Competition (Quest Event) period.
+[16-03-2025 21:00:37]	INFO	The Seal of Strife remains unclaimed.
+[16-03-2025 21:00:37]	INFO	The Seal of Gnosis remains unclaimed.
+[16-03-2025 21:00:37]	INFO	The Seal of Avarice remains unclaimed.
+[16-03-2025 21:00:37]	INFO	The Seven Signs competition will end in a tie this week.
+[16-03-2025 21:00:37]	INFO	Next Seven Signs period is already computed.
+[16-03-2025 21:00:37]	INFO	Next Seven Signs period begins in 0 days, 0 hours and 0 mins.
+[16-03-2025 21:00:37]	INFO	The first Festival of Darkness cycle begins in 2 minute(s).
+[16-03-2025 21:00:37]	INFO	------------------------------------------------------------=[ Manor Manager ]
+[16-03-2025 21:00:37]	INFO	The Quest Event Results period of Seven Signs has begun.
+[16-03-2025 21:00:37]	INFO	Next Seven Signs period change set to Sun Mar 16 21:15:37 GMT-03:00 2025.
+[16-03-2025 21:00:37]	INFO	Loaded 256 seeds.
+[16-03-2025 21:00:37]	INFO	---------------------------------------------------------------------=[ NPCs ]
+[16-03-2025 21:00:37]	INFO	Loaded 70 available buffs.
+[16-03-2025 21:00:37]	INFO	Loaded 2 herbs groups.
+[16-03-2025 21:00:37]	INFO	Loaded 6535 NPC templates.
+[16-03-2025 21:00:37]	INFO	Loaded 12 Walker routes.
+[16-03-2025 21:00:37]	INFO	Loaded 547 doors templates.
+[16-03-2025 21:00:37]	INFO	Loaded 29 static objects.
+[16-03-2025 21:00:38]	WARNING	Couldn't find the nearest ClanHall for Chamberlain - 35438 (268477943).
+[16-03-2025 21:00:38]	WARNING	Invalid template 18888 found on spawn load.
+[16-03-2025 21:00:38]	WARNING	RB template 29046 is in regular spawnlist, move it in raidboss_spawnlist.
+[16-03-2025 21:00:38]	INFO	Loaded 40412 spawns.
+[16-03-2025 21:00:38]	INFO	Loaded 196 raid bosses.
+[16-03-2025 21:00:38]	INFO	Loaded 7 GrandBosses instances.
+[16-03-2025 21:00:38]	INFO	Loaded day creatures spawns.
+[16-03-2025 21:00:38]	INFO	Loaded Dimensional Rift rooms.
+[16-03-2025 21:00:38]	INFO	-------------------------------------------------------=[ Olympiads & Heroes ]
+[16-03-2025 21:00:38]	INFO	Loaded 18 stadiums.
+[16-03-2025 21:00:38]	INFO	299 minutes until Olympiad period ends.
+[16-03-2025 21:00:38]	INFO	Next weekly Olympiad change is in 10079 minutes.
+[16-03-2025 21:00:38]	INFO	---------------------------=[ ---Loading Olympiad Custom period Announce.--- ]
+[16-03-2025 21:00:38]	INFO	Olympiad System: 0 days, 4 hours and 59 mins. until period ends
+[16-03-2025 21:00:38]	INFO	Olympiad System: Next weekly change in 0 days, -1 hours and 59 mins.
+[16-03-2025 21:00:38]	INFO	----------------------------------------------------------------=[ --------- ]
+[16-03-2025 21:00:38]	INFO	Loaded 0 nobles.
+[16-03-2025 21:00:38]	INFO	Olympiad competition period starts in 0 days, 0 hours and 0 mins.
+[16-03-2025 21:00:38]	INFO	Olympiad event starts/started @ Sun Mar 16 18:00:00 GMT-03:00 2025.
+[16-03-2025 21:00:38]	INFO	Loaded 0 heroes and 0 all time heroes.
+[16-03-2025 21:00:38]	INFO	----------------------------------------------------------=[ Four Sepulchers ]
+[16-03-2025 21:00:38]	INFO	Loaded 20 Mysterious-Box.
+[16-03-2025 21:00:38]	INFO	Loaded 39 Key-Box.
+[16-03-2025 21:00:38]	INFO	Loaded 716 physical type monsters.
+[16-03-2025 21:00:38]	INFO	Olympiad game started.
+[16-03-2025 21:00:38]	INFO	Loaded 716 magical type monsters.
+[16-03-2025 21:00:38]	INFO	Loaded 4 Shadows of Halisha.
+[16-03-2025 21:00:38]	INFO	Loaded 92 Duke's Hall Gatekeepers.
+[16-03-2025 21:00:38]	INFO	Loaded 68 Emperor's Grave monsters.
+[16-03-2025 21:00:38]	INFO	Loaded 4 managers.
+[16-03-2025 21:00:38]	INFO	---------------------------------------------------------=[ Quests & Scripts ]
+[16-03-2025 21:00:38]	INFO	Loaded 380 regular scripts and 5 scheduled scripts.
+[16-03-2025 21:00:38]	INFO	-------------------------------------------------------------------=[ Events ]
+[16-03-2025 21:00:38]	INFO	Loaded 5112 Derby Track records, currently on race #5113.
+[16-03-2025 21:00:38]	INFO	Loaded 0 couples.
+[16-03-2025 21:00:38]	INFO	A new Fishing Championship event period has started.
+[16-03-2025 21:00:38]	INFO	-----------------------------------------------------------------=[ Handlers ]
+[16-03-2025 21:00:38]	INFO	Loaded 269 admin command handlers.
+[16-03-2025 21:00:38]	INFO	Loaded 14 chat handlers.
+[16-03-2025 21:00:38]	INFO	Loaded 34 item handlers.
+[16-03-2025 21:00:38]	INFO	Loaded 73 skill handlers.
+[16-03-2025 21:00:38]	INFO	Loaded 15 user command handlers.
+[16-03-2025 21:00:38]	INFO	-------------------------------------------------------------------=[ System ]
+[16-03-2025 21:00:39]	INFO	Loaded 32002 fake player names.
+[16-03-2025 21:00:40]	INFO	Deadlock detector is disabled.
+[16-03-2025 21:00:40]	INFO	Gameserver has started, used memory: 305 / 3096 Mo.
+[16-03-2025 21:00:40]	INFO	Maximum allowed players: 2000.
+[16-03-2025 21:00:40]	INFO	[Server Loaded in 10 seconds].
+[16-03-2025 21:00:40]	INFO	--------------------------------------------------------------------=[ Login ]
+[16-03-2025 21:00:40]	INFO	Connecting to login on 192.168.1.35:9014.
+[16-03-2025 21:00:40]	INFO	LoginServer registration failed: Reason: wrong hexid.
+[16-03-2025 21:00:50]	INFO	Connecting to login on 192.168.1.35:9014.
+[16-03-2025 21:00:50]	INFO	LoginServer registration failed: Reason: wrong hexid.
+[16-03-2025 21:01:00]	INFO	Connecting to login on 192.168.1.35:9014.

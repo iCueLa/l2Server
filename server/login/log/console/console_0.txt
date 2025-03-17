@@ -1,16 +1,22 @@
-[22-04-2022 11:20:08]	INFO	---------------------------------------------------------------------=[ aCis ]
-[22-04-2022 11:20:09]	INFO	Loading loginserver configuration files.
-[22-04-2022 11:20:09]	INFO	----------------------------------------------------------=[ LoginController ]
-[22-04-2022 11:20:10]	INFO	Cached 10 KeyPairs for RSA communication.
-[22-04-2022 11:20:10]	INFO	Stored 20 keys for Blowfish communication.
-[22-04-2022 11:20:10]	INFO	--------------------------------------------------------=[ GameServerManager ]
-[22-04-2022 11:20:10]	INFO	Loaded 127 server names.
-[22-04-2022 11:20:10]	INFO	Loaded 1 registered gameserver(s).
-[22-04-2022 11:20:10]	INFO	Cached 10 RSA keys for gameserver communication.
-[22-04-2022 11:20:10]	INFO	-----------------------------------------------------------------=[ Ban List ]
-[22-04-2022 11:20:10]	INFO	Loaded 0 banned IP(s).
-[22-04-2022 11:20:10]	INFO	-------------------------------------------------=[ IP, Ports & Socket infos ]
-[22-04-2022 11:20:10]	INFO	Listening for gameservers on *:9014.
-[22-04-2022 11:20:10]	INFO	Loginserver ready on *:2106.
-[22-04-2022 11:20:10]	INFO	--------------------------------------------=[ Waiting for gameserver answer ]
-[22-04-2022 11:20:29]	INFO	Hooked [1] Bartz gameserver on: 127.0.0.1.
+[16-03-2025 21:02:19]	INFO	---------------------------------------------------------------------=[ aCis ]
+[16-03-2025 21:02:19]	INFO	Loading loginserver configuration files.
+[16-03-2025 21:02:19]	INFO	----------------------------------------------------------=[ LoginController ]
+[16-03-2025 21:02:20]	INFO	Cached 10 KeyPairs for RSA communication.
+[16-03-2025 21:02:20]	INFO	Stored 20 keys for Blowfish communication.
+[16-03-2025 21:02:20]	INFO	--------------------------------------------------------=[ GameServerManager ]
+[16-03-2025 21:02:20]	INFO	Loaded 127 server names.
+[16-03-2025 21:02:20]	INFO	Loaded 1 registered gameserver(s).
+[16-03-2025 21:02:20]	INFO	Cached 10 RSA keys for gameserver communication.
+[16-03-2025 21:02:20]	INFO	-----------------------------------------------------------------=[ Ban List ]
+[16-03-2025 21:02:20]	INFO	Loaded 0 banned IP(s).
+[16-03-2025 21:02:20]	INFO	-------------------------------------------------=[ IP, Ports & Socket infos ]
+[16-03-2025 21:02:20]	INFO	Listening for gameservers on 192.168.1.35:9014.
+[16-03-2025 21:02:20]	INFO	Loginserver ready on 192.168.1.35:2106.
+[16-03-2025 21:02:20]	INFO	--------------------------------------------=[ Waiting for gameserver answer ]
+[16-03-2025 21:02:34]	INFO	Hooked [1] Bartz gameserver on: 181.26.96.140.
+[16-03-2025 21:09:39]	INFO	Auto created account 'kenosis32'.
+[16-03-2025 22:44:17]	INFO	GameServer [1] Bartz is now set as disconnected.
+[16-03-2025 22:45:08]	INFO	Hooked [1] Bartz gameserver on: 181.26.96.140.
+[16-03-2025 22:50:28]	INFO	GameServer [1] Bartz is now set as disconnected.
+[16-03-2025 22:51:16]	INFO	Hooked [1] Bartz gameserver on: 181.26.96.140.
+[16-03-2025 23:08:07]	INFO	GameServer [1] Bartz is now set as disconnected.

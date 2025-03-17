@@ -1,0 +1,13 @@
+[16-03-2025 20:41:09]	INFO	---------------------------------------------------------------------=[ aCis ]
+[16-03-2025 20:41:09]	INFO	Loading loginserver configuration files.
+[16-03-2025 20:41:09]	INFO	----------------------------------------------------------=[ LoginController ]
+[16-03-2025 20:41:10]	INFO	Cached 10 KeyPairs for RSA communication.
+[16-03-2025 20:41:10]	INFO	Stored 20 keys for Blowfish communication.
+[16-03-2025 20:41:10]	INFO	--------------------------------------------------------=[ GameServerManager ]
+[16-03-2025 20:41:10]	INFO	Loaded 127 server names.
+[16-03-2025 20:41:10]	INFO	Loaded 1 registered gameserver(s).
+[16-03-2025 20:41:10]	INFO	Cached 10 RSA keys for gameserver communication.
+[16-03-2025 20:41:10]	INFO	-----------------------------------------------------------------=[ Ban List ]
+[16-03-2025 20:41:10]	INFO	Loaded 0 banned IP(s).
+[16-03-2025 20:41:10]	INFO	-------------------------------------------------=[ IP, Ports & Socket infos ]
+[16-03-2025 20:41:10]	SEVERE	Failed to start the gameserver listener.

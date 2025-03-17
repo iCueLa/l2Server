@@ -1,0 +1,22 @@
+[16-03-2025 20:43:05]	INFO	---------------------------------------------------------------------=[ aCis ]
+[16-03-2025 20:43:05]	INFO	Loading loginserver configuration files.
+[16-03-2025 20:43:06]	INFO	----------------------------------------------------------=[ LoginController ]
+[16-03-2025 20:43:06]	INFO	Cached 10 KeyPairs for RSA communication.
+[16-03-2025 20:43:06]	INFO	Stored 20 keys for Blowfish communication.
+[16-03-2025 20:43:06]	INFO	--------------------------------------------------------=[ GameServerManager ]
+[16-03-2025 20:43:06]	INFO	Loaded 127 server names.
+[16-03-2025 20:43:06]	INFO	Loaded 1 registered gameserver(s).
+[16-03-2025 20:43:06]	INFO	Cached 10 RSA keys for gameserver communication.
+[16-03-2025 20:43:06]	INFO	-----------------------------------------------------------------=[ Ban List ]
+[16-03-2025 20:43:06]	INFO	Loaded 0 banned IP(s).
+[16-03-2025 20:43:06]	INFO	-------------------------------------------------=[ IP, Ports & Socket infos ]
+[16-03-2025 20:43:06]	INFO	Listening for gameservers on *:9014.
+[16-03-2025 20:43:06]	INFO	Loginserver ready on *:2106.
+[16-03-2025 20:43:06]	INFO	--------------------------------------------=[ Waiting for gameserver answer ]
+[16-03-2025 20:45:56]	SEVERE	Exception retrieving account info for 'kenosis32'.
+[16-03-2025 20:45:58]	SEVERE	Exception retrieving account info for 'kenosis32'.
+[16-03-2025 20:46:04]	SEVERE	Exception retrieving account info for 'kenosis32'.
+[16-03-2025 20:46:09]	SEVERE	Exception retrieving account info for 'kenosis32'.
+[16-03-2025 20:46:23]	SEVERE	Exception retrieving account info for 'kenosis32'.
+[16-03-2025 20:46:26]	SEVERE	Exception retrieving account info for 'kenosis32'.
+[16-03-2025 20:52:20]	SEVERE	Exception retrieving account info for 'kenosis32'.

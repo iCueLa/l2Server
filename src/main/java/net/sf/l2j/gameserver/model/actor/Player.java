@@ -134,7 +134,8 @@ import java.util.stream.Collectors;
  * There is always a client-thread connected to this (except if a player-store is activated upon logout).
  */
 public class Player extends Playable
-{
+{	
+	private static final String RESTORE_SKILLS_FOR_CHAR_ALT_SUBCLASS = "SELECT skill_id,skill_level FROM character_skills WHERE char_obj_id=?";
 	private static final String RESTORE_SKILLS_FOR_CHAR = "SELECT skill_id,skill_level FROM character_skills WHERE char_obj_id=? AND class_index=?";
 	private static final String ADD_OR_UPDATE_SKILL = "INSERT INTO character_skills (char_obj_id,skill_id,skill_level,class_index) VALUES (?,?,?,?) ON DUPLICATE KEY UPDATE skill_level=VALUES(skill_level)";
 	private static final String DELETE_SKILL_FROM_CHAR = "DELETE FROM character_skills WHERE skill_id=? AND char_obj_id=? AND class_index=?";
@@ -5970,7 +5971,7 @@ public class Player extends Playable
 	private void restoreSkills()
 	{
 		try (Connection con = L2DatabaseFactory.getInstance().getConnection();
-			PreparedStatement ps = con.prepareStatement(RESTORE_SKILLS_FOR_CHAR))
+			PreparedStatement ps = con.prepareStatement(RESTORE_SKILLS_FOR_CHAR_ALT_SUBCLASS))
 		{
 			ps.setInt(1, getObjectId());
 			ps.setInt(2, getClassIndex());
@@ -10365,7 +10366,7 @@ public class Player extends Playable
 	            }
 	          } else {
 	            con.close();
-	          }
+	          }restoreSkills
 	        }
 	      }
 	    }
